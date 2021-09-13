@@ -1,11 +1,11 @@
 body {
   overflow-x: hidden;
   font-family: "Montserrat", sans-serif;
-  background: #364f6b !important;
+  background: #035e4f !important;
 }
 header{
   text-align: center;
-  color: rgb(163, 154, 130);
+  color: rgb(163, 130, 130);
 }
 .search-field {
   margin-top: 30px;
